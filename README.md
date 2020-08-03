@@ -31,5 +31,5 @@ Isolation forest
 Local outlier factor algorithm
 
 ## Results 
-Second algorithm worked better than the first
+Second algorithm worked better than the first.
 Support vector machine wasn't used because it would take longer to train.
