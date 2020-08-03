@@ -8,7 +8,7 @@ matplotlib for data visualization
 seaborn for plotting heat map
 sklearn for ml algorithm
 
-## Analysing the dataset.
+## Visualising the data.
 
 Dataset of around 28500 credit card transactions.
 Seperated the dataset to x & y.
@@ -16,8 +16,12 @@ x contains around 30 parameters which are a result of PCA dimensionality reducti
 y represent the classes of each of the datapoints.
 0 means normal transaction 1 means fraudulent.
 
-## Visualising the data.
+<img src="images/dataset histograms.jpg">
+
+## Analysing the dataset.
 Plotting the correlation matrix to find if there are any relation between the parameters
+
+<img src="images/heatmap.jpg">
 
 Unsupervise learning 
 
