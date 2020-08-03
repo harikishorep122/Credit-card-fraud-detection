@@ -27,8 +27,8 @@ Unsupervise learning
 
 ## Algorithms used 
 
-Isolation forest 
-Local outlier factor algorithm
+Isolation forest &
+Local outlier factor.
 
 ## Results 
 Second algorithm worked better than the first.
